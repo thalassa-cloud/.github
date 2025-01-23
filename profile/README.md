@@ -14,6 +14,13 @@ At Thalassa Cloud, we help IT teams achieve full control over their infrastructu
 
 
 # About Thalassa Cloud
-At Thalassa Cloud, our mission is simple: bring the cloud back to your own data centers, putting control and flexibility back in your hands. We believe that organizations deserve the freedom to run their infrastructure without dependency on external vendors.
+At [Thalassa Cloud](https://thalassa.cloud), our mission is simple: bring the cloud back to your own data centers, putting control and flexibility back in your hands. We believe that organizations deserve the freedom to run their infrastructure without dependency on external vendors.
 
 Thalassa Cloud combines the powerful APIs of public cloud with the autonomy and security of a private infrastructure. We empower organizations to manage their cloud on their own terms, within their own data centers, creating a truly decentralized cloud experience where your infrastructure is yours to control and shape.
+
+# Solutions
+
+- [Thalassa Cloud Platform](https://thalassa.cloud/platform/)
+- [Dedicated Private Cloud](https://thalassa.cloud/solutions/dedicated-private-cloud/)
+- [Digital Sovereignty from the Netherlands](https://thalassa.cloud/digital-sovereignty/)
+- [Managed Kubernetes](https://thalassa.cloud/use-cases/managed-kubernetes/)
