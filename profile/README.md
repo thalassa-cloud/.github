@@ -1,26 +1,18 @@
 # Thalassa Cloud
 
-## A Cloud Platform Built on Open Standards
+## European Public Cloud for DevOps Teams
 
-Redefine your cloud strategy with a platform that combines the flexibility of public cloud with the control and autonomy of private deployment. Powered by open-source technologies and Kubernetes, we deliver innovation tailored to your business.
+A [European alternative](https://thalassa.cloud/services/european-cloud/) to hyperscalers, built for DevOps teams who demand full control, performance and APIs. Thalassa Cloud provides a European alternative to hyperscalers, offering a [public cloud](https://thalassa.cloud/services/public-cloud/) optimized for DevOps teams. With our API-first approach and cloud-native architecture, you get the flexibility and control you need to run your modern applications in the Netherlands, without compromising on security or compliance. Built for Developers, by Developers.
 
-* Deploy infrastructure in your own data centers or trusted partner facilities.
-* Built with Kubernetes and proven open-source technologies.
-* Combines public cloud capabilities with full control and compliance.
+## Our Cloud Services
 
-## Empowering Your Private Cloud Journey
+We offer a range of cloud services to help you run and deploy your cloud-native applications in a fully independent European Cloud. From Infrastructure as a Service to Kubernetes and more, we have you covered.
 
-At Thalassa Cloud, we help IT teams achieve full control over their infrastructure by delivering a cloud-native private cloud platform that prioritizes independence, cost control, and digital sovereignty.
+### Kubernetes as a Service
+Use our [Kubernetes as a Service](https://thalassa.cloud/products/compute/kubernetes/) offering to deploy your cloud-native applications in a fully independent European Cloud.
+We use the latest version of Kubernetes and provide a fully managed service with no vendor lock-in. Our Kubernetes offering is fully CNCF compliant and built on top of our public cloud platform.
 
+### Infrastructure as a Service
 
-# About Thalassa Cloud
-At [Thalassa Cloud](https://thalassa.cloud), our mission is simple: bring the cloud back to your own data centers, putting control and flexibility back in your hands. We believe that organizations deserve the freedom to run their infrastructure without dependency on external vendors.
+From Software Defined networking with [VPCs](https://thalassa.cloud/products/networking/vpcs/), to Virtual Machines and [Load Balancers](https://thalassa.cloud/products/networking/loadbalancers/), Thalassa Cloud offers all the Cloud Services that you require to run Cloud Native workloads.
 
-Thalassa Cloud combines the powerful APIs of public cloud with the autonomy and security of a private infrastructure. We empower organizations to manage their cloud on their own terms, within their own data centers, creating a truly decentralized cloud experience where your infrastructure is yours to control and shape.
-
-# Solutions
-
-- [Thalassa Cloud Platform](https://thalassa.cloud/platform/)
-- [Dedicated Private Cloud](https://thalassa.cloud/solutions/dedicated-private-cloud/)
-- [Digital Sovereignty from the Netherlands](https://thalassa.cloud/digital-sovereignty/)
-- [Managed Kubernetes](https://thalassa.cloud/use-cases/managed-kubernetes/)
