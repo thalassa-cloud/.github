@@ -16,3 +16,6 @@ We use the latest version of Kubernetes and provide a fully managed service with
 
 From Software Defined networking with [VPCs](https://thalassa.cloud/products/networking/vpcs/), to Virtual Machines and [Load Balancers](https://thalassa.cloud/products/networking/loadbalancers/), Thalassa Cloud offers all the Cloud Services that you require to run Cloud Native workloads.
 
+### Databases as a Service
+
+The [PostgreSQL as a Service](https://thalassa.cloud/products/databases/postgresql/) for Dutch and European DevOps teams. Thalassa Cloud delivers a managed PostgreSQL that works the way you build - API-first, Cloud-native, and ready for scale.
