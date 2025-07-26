@@ -19,3 +19,9 @@ From Software Defined networking with [VPCs](https://thalassa.cloud/products/net
 ### Databases as a Service
 
 The [PostgreSQL as a Service](https://thalassa.cloud/products/databases/postgresql/) for Dutch and European DevOps teams. Thalassa Cloud delivers a managed PostgreSQL that works the way you build - API-first, Cloud-native, and ready for scale.
+
+### Object Storage
+
+High-performance, multi-AZ [Object Storage](https://thalassa.cloud/products/storage/object-storage/) built for durability, scale, and simplicity.  
+Our S3-compatible storage is hosted across three Dutch datacenters, ensuring redundancy and high availability by design.  
+Easily integrate with your CI/CD pipelines, store backups, artifacts, or any unstructured data.
